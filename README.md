@@ -9,3 +9,8 @@ Class:MScDSA
 Email: riya.pc@msds.christuniversity.in
 
 
+**
+## Index
+|sl.no|date|file name|topic|
+|:----:|:----:|:---:|:----:|
+|1.|25-08-23|lab01|Write a program to enter name and push it to github.|

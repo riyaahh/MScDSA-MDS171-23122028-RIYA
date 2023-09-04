@@ -11,8 +11,8 @@ Email: riya.pc@msds.christuniversity.in
 
 **
 ## Index
-|sl.no|date|file name|topic|
-|:----:|:----:|:---:|:----:|
-|1.|25-08-23|lab01|Write a program to enter name and push it to github.|
-|2.|28-08-23|lab02|The Name Collector's Quest|
-|3.|01-09-23|lab03|The Tale of Numbers' Harmony|
+|sl.no|date|file name|topic|link|
+|:----:|:----:|:---:|:----:|:---:|
+|1.|25-08-23|lab01|Write a program to enter name and push it to github.|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA.git|
+|2.|28-08-23|lab02|The Name Collector's Quest|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA.git|
+|3.|01-09-23|lab03|The Tale of Numbers' Harmony|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA.git|

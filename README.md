@@ -19,4 +19,4 @@ Email: riya.pc@msds.christuniversity.in
 |4.|04-09-23|lab04|A Taste of Success: The Restaurant Management System|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA.git|
 |5.|09-09-23|lab05|Mix & Match Calculator|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA.git|
 |6.|11-09-23|lab06|vowel counter|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA/blob/main/lab06.ipynb|
-|7.|17-09-23|lab07|My Menu Driven Restaurant||
+|7.|17-09-23|lab07|My Menu Driven Restaurant|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA/blob/6d1612d7a4f525e43f011f1b8b01e3380400bcd4/lab07.py|

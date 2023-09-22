@@ -1,0 +1,29 @@
+﻿TYPE,CATEGORY,COST,DESC,DATE
+expense,food,500,dinner,17-02-2001
+income,electricity bill,452,payed,18-02-2001
+income ,rent,700,payed,19-02-2001
+income,shopping,100,family,20-02-2001
+expense,shopping,2500,lulumall,21-02-2001
+expense,food,805,lunch,22-02-2001
+income ,food,900,dinner,23-02-2001
+income,salary,600,saved,24-02-2001
+expense,shopping,2023,cloths,25-02-2001
+expense,shopping,4220,friends,26-02-2001
+expense,food,785,breakfast,27-02-2001
+income ,food,400,breakfast,28-02-2001
+income,salary,900,psaved,01-03-2001
+expense,shopping,1000,family,02-03-2001
+expense,shopping,450,family,03-03-2001
+expense,food,200,tea,04-03-2001
+income ,food,700,tea,05-03-2001
+income,rent,1200,payed,06-03-2001
+expense,salary,5000,saved,07-03-2001
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,DATE,

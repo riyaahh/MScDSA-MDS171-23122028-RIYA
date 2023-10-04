@@ -1,0 +1,7 @@
+
+{'Matrix 1': [[5, 4], [1, 2]], 'Matrix 2': [[4, 1, 2, 5, 5], [5, 5, 5, 5, 5]], 'Product': matrix([[40, 25, 30, 45, 45],
+        [14, 11, 12, 15, 15]])}
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>
+<class 'dict'>

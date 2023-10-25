@@ -22,3 +22,4 @@ Email: riya.pc@msds.christuniversity.in
 |7.|17-09-23|lab07|My Menu Driven Restaurant|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA/blob/6d1612d7a4f525e43f011f1b8b01e3380400bcd4/lab07.py|
 |22-09-23|lab09|lab 09.|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA.git|
 |04-10-23|lab08| Matrix Multiplicaton|https://github.com/riyaahh/MScDSA-MDS171-23122028-RIYA/blob/main/lab08.ipynb?short_path=9c5a4d3|
+
